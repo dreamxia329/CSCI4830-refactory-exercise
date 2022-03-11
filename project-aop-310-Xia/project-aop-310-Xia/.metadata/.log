@@ -1,0 +1,13 @@
+!SESSION 2022-03-10 21:58:50.923 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/dreamxia/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -keyring /Users/dreamxia/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2022-03-10 21:59:07.038
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.egit.core 1 0 2022-03-10 21:59:07.067
+!MESSAGE Using Apache MINA sshd as ssh client.
